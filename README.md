@@ -12,6 +12,12 @@
 [![Tools](https://img.shields.io/badge/tools-62-purple.svg)](#navigation-guide)
 [![Last Updated](https://img.shields.io/badge/last_updated-March_2026-green.svg)](#acknowledgments)
 
+<div align="center">
+<img src="assets/autonomy-levels-banner.png" alt="From Assisted to Autonomous: L1 Assist → L2 Partial → L3 Conditional → L4 High → L5 Full" width="900">
+</div>
+
+<br>
+
 > A curated list of resources for **Vibe Researching** -- AI-driven research automation across the scientific discovery pipeline, from literature review to publication.
 
 **Vibe Researching** extends the concept of "vibe coding" (conversational, AI-assisted programming) to the entire research workflow. This collection covers tools, papers, and frameworks spanning six research pipeline stages (Survey -> Ideation -> Experiment -> Analysis -> Writing -> Promotion) and six autonomy levels (L0 Manual -> L5 Fully Autonomous).
