@@ -542,7 +542,7 @@ This list was compiled through systematic web research (March 2026) covering aca
 ```
 @misc{awesome-vibe-researching,
   title={Awesome Vibe Researching: A Curated List of AI-Driven Research Automation Resources},
-  author={VibeLab Contributors},
+  author={Dingjie Song and Lichao Sun},
   year={2026},
   howpublished={\url{https://github.com/OpenLAIR/awesome-vibe-researching}},
   note={107 resources across 6 research stages and 5 autonomy levels}
