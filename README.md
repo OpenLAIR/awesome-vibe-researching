@@ -46,6 +46,13 @@
 
 **Community**: [VibeX 2026 Workshop](https://conf.researchr.org/home/ease-2026/vibex-2026) -- 1st International Workshop on Vibe Coding and Vibe Researching @ EASE 2026
 
+<div align="center">
+<img src="assets/leveraged-cognition.png" alt="Leveraged Cognition: Traditional Manual Research vs Vibe Researching vs Fully Automated AI Scientist" width="700">
+<br>
+<em>Manual work is too slow. Fully automated AI is too generic. <strong>Vibe Researching</strong> is the new frontier.<br>
+Dr. Claw turns your Research Taste into outsized outcomes with Agentic Execution -- so you can move faster, think bigger, and still hold the line on scientific rigor.</em>
+</div>
+
 ## Navigation Guide
 
 ### By Research Stage
@@ -87,7 +94,8 @@ Total            |  17    |    9     |    48      |   18     |   10    |     1  
 
 ---
 
-## Survey & Literature Review
+<details>
+<summary><h2>Survey & Literature Review</h2></summary>
 
 > Tools and papers for literature search, systematic review, knowledge extraction, and gap analysis. (17 items)
 
@@ -126,9 +134,12 @@ Total            |  17    |    9     |    48      |   18     |   10    |     1  
 | Adoption pattern | Commercial-first: tools emerged 2021-2024, academic evaluation papers followed 2024-2026 |
 | Gap | No Level 4-5 tools for autonomous literature synthesis exist yet |
 
+</details>
+
 ---
 
-## Ideation & Hypothesis Generation
+<details>
+<summary><h2>Ideation & Hypothesis Generation</h2></summary>
 
 > Tools and papers for research question formulation, hypothesis generation, and novelty checking. (9 items -- under-represented stage)
 
@@ -165,9 +176,12 @@ Total            |  17    |    9     |    48      |   18     |   10    |     1  
 | Need | Standalone autonomous hypothesis generation tools (Level 4-5), novelty checking systems |
 | AI Scientist limitation | 42% failure rate requires human review of all outputs |
 
+</details>
+
 ---
 
-## Experiment & Implementation
+<details>
+<summary><h2>Experiment & Implementation</h2></summary>
 
 > Tools and papers for protocol design, code implementation, laboratory execution, and data collection. **Largest category** (48 items).
 
@@ -286,9 +300,12 @@ Total            |  17    |    9     |    48      |   18     |   10    |     1  
 | Materials discovery | Years -> weeks compression with self-driving laboratories |
 | Market | Lab automation $7.84B (2024) -> $14.78B (2034), CAGR 6.55% |
 
+</details>
+
 ---
 
-## Analysis & Interpretation
+<details>
+<summary><h2>Analysis & Interpretation</h2></summary>
 
 > Tools and papers for statistical analysis, visualization, results interpretation, and reproducibility. (18 items)
 
@@ -330,9 +347,12 @@ Total            |  17    |    9     |    48      |   18     |   10    |     1  
 | SciRep advantage | 89% success vs 61% for Docker/Singularity |
 | 2026 vision | Automated reproducibility as byproduct of AI-assisted research |
 
+</details>
+
 ---
 
-## Writing & Publishing
+<details>
+<summary><h2>Writing & Publishing</h2></summary>
 
 > Tools and papers for manuscript drafting, citation management, figure/table creation, and formatting. (10 items)
 
@@ -370,9 +390,12 @@ Total            |  17    |    9     |    48      |   18     |   10    |     1  
 | Need | Automated draft generation with human refinement (RAG for review papers) |
 | Milestone | AI Scientist-v2: first AI paper to exceed human acceptance threshold (2025) |
 
+</details>
+
 ---
 
-## Promotion & Dissemination
+<details>
+<summary><h2>Promotion & Dissemination</h2></summary>
 
 > Tools and papers for presentation slides, video/audio narration, social media, and homepage creation. (1 item -- **critical gap**)
 
@@ -391,9 +414,12 @@ Total            |  17    |    9     |    48      |   18     |   10    |     1  
 | Missing L4-5 | Video narration, social media automation, conference talk generation |
 | Potential additions | Beautiful.ai, Tome, Gamma (slides); Descript, Synthesia (video); Buffer, Hootsuite (social media) |
 
+</details>
+
 ---
 
-## Cross-Cutting Tools
+<details>
+<summary><h2>Cross-Cutting Tools</h2></summary>
 
 > General-purpose platforms, multimodal AI, and infrastructure supporting multiple research stages.
 
@@ -427,9 +453,12 @@ Total            |  17    |    9     |    48      |   18     |   10    |     1  
 | Strategic investments | $1B+ partnerships emerging (NVIDIA-Eli Lilly) |
 | Timeline compression | Discovery cycles compressed from years to weeks with AI + autonomous experimentation |
 
+</details>
+
 ---
 
-## Related Resources
+<details>
+<summary><h2>Related Resources</h2></summary>
 
 ### Meta-Research
 
@@ -450,6 +479,8 @@ Total            |  17    |    9     |    48      |   18     |   10    |     1  
 | **EASE 2026** | Hosts VibeX 2026 workshop on vibe coding and vibe researching |
 | **NeurIPS** | PaperBench benchmark papers, ML reproducibility initiatives |
 | **ICML** | DeepCode benchmark (75.9% success on ICML 2024 reproduction) |
+
+</details>
 
 ---
 
